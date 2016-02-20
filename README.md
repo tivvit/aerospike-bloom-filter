@@ -1,5 +1,7 @@
 # Aerospike Bloom filter UDF module
 
+[![Join the chat at https://gitter.im/tivvit/aerospike-bloom-filter](https://badges.gitter.im/tivvit/aerospike-bloom-filter.svg)](https://gitter.im/tivvit/aerospike-bloom-filter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Storage based on probabilistic structure [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
 
 Suitable for storing huge amount of data and quering if element is present or not
