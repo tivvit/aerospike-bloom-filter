@@ -6,6 +6,8 @@ Suitable for storing huge amount of data and quering if element is present or no
 
 ## CAUTION 
 
+You probably should use https://github.com/tivvit/aerospike-pure-lua-bloom-filter which uses Aerospike bytes directly
+
 This module is based on:
 https://github.com/mozilla-services/lua_bloom_filter
 but it uses specific serialization methods (https://github.com/mozilla-services/lua_bloom_filter/pull/4)
