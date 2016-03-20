@@ -1,5 +1,7 @@
 # Aerospike Bloom filter UDF module
 
+![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Storage based on probabilistic structure [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
 
 Suitable for storing huge amount of data and quering if element is present or not
